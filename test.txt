@@ -3,3 +3,4 @@ remote test file
 init
 
 master 1
+master 2
